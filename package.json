@@ -15,7 +15,6 @@
         "src"
     ],
     "scripts": {
-        "start": "node dist/test.js",
         "build": "rimraf dist/ && tsc",
         "prepare": "npm run build",
         "lint": "eslint --ext .ts . && prettier --check .",
