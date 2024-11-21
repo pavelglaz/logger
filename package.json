@@ -1,6 +1,6 @@
 {
     "name": "@pavelglaz/logger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Logger package",
     "main": "dist/index.js",
     "types": "dist/types/index.d.ts",
